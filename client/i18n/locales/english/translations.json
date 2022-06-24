@@ -73,7 +73,9 @@
     "click-start-course": "Start the course",
     "click-start-project": "Start the project",
     "change-language": "Change Language",
-    "cancel-change": "Cancel Change"
+    "cancel-change": "Cancel Change",
+    "resume-project": "Resume project",
+    "start-project": "Start project"
   },
   "landing": {
     "big-heading-1": "Learn to code — for free.",
@@ -290,8 +292,7 @@
     "scrimba-tip": "Tip: If the mini-browser is covering the code, click and drag to move it. Also, feel free to stop and edit the code in the video at any time.",
     "chal-preview": "Challenge Preview",
     "cert-map-estimates": {
-      "certs": "{{title}} Certification (300\u00A0hours)",
-      "coding-prep": "{{title}} (Thousands of hours of challenges)"
+      "certs": "{{title}} Certification"
     },
     "editor-tabs": {
       "info": "Info",
@@ -321,7 +322,8 @@
     "sorry-keep-trying":"Sorry, your code does not pass. Keep trying.",
     "sorry-getting-there":"Sorry, your code does not pass. You're getting there.",
     "sorry-hang-in-there":"Sorry, your code does not pass. Hang in there.",
-    "sorry-dont-giveup":"Sorry, your code does not pass. Don't give up."
+    "sorry-dont-giveup":"Sorry, your code does not pass. Don't give up.",
+    "challenges-completed": "{{completedCount}} of {{totalChallenges}} challenges completed"
   },
   "donate": {
     "title": "Support our nonprofit",
@@ -482,7 +484,10 @@
     "primary-nav": "primary",
     "breadcrumb-nav": "breadcrumb",
     "submit": "Use Ctrl + Enter to submit.",
-    "running-tests": "Running tests"
+    "running-tests": "Running tests",
+    "step": "Step",
+    "steps": "Steps",
+    "steps-for": "Steps for {{blockTitle}}"
   },
   "flash": {
     "honest-first": "To claim a certification, you must first accept our academic honesty policy",
